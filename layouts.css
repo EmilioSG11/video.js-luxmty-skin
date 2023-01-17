@@ -1,0 +1,74 @@
+/*Layout*/
+.video-js.vjs-layout-tiny:not(.vjs-fullscreen) .vjs-audio-button,
+.video-js.vjs-layout-tiny:not(.vjs-fullscreen) .vjs-progress-control,
+.video-js.vjs-layout-tiny:not(.vjs-fullscreen) .vjs-playback-rate,
+.video-js.vjs-layout-tiny:not(.vjs-fullscreen) .vjs-mute-control,
+.video-js.vjs-layout-tiny:not(.vjs-fullscreen) .vjs-volume-control,
+.video-js.vjs-layout-tiny:not(.vjs-fullscreen) .vjs-chapters-button,
+.video-js.vjs-layout-tiny:not(.vjs-fullscreen) .vjs-captions-button,
+.video-js.vjs-layout-tiny:not(.vjs-fullscreen) .vjs-subtitles-button,
+.vjs-layout-tiny:not(.vjs-fullscreen) .vjs-subs-caps-button,
+.video-js.vjs-layout-tiny:not(.vjs-fullscreen) .vjs-picture-in-picture-control, 
+.video-js.vjs-layout-tiny:not(.vjs-fullscreen) .vjs-quality-selector,
+.video-js.vjs-layout-tiny:not(.vjs-fullscreen) .vjs-icon-share {
+  display: none;
+}
+
+.video-js.vjs-layout-x-small:not(.vjs-fullscreen) .vjs-audio-button,
+.video-js.vjs-layout-x-small:not(.vjs-fullscreen) .vjs-captions-button,
+.video-js.vjs-layout-x-small:not(.vjs-fullscreen) .vjs-playback-rate,
+.video-js.vjs-layout-x-small:not(.vjs-fullscreen) .vjs-chapters-button,
+.video-js.vjs-layout-x-small:not(.vjs-fullscreen) .vjs-subtitles-button,
+.video-js.vjs-layout-x-small:not(.vjs-fullscreen) .vjs-icon-share,
+.video-js.vjs-layout-x-small:not(.vjs-fullscreen) .vjs-volume-button,
+.video-js.vjs-layout-x-small:not(.vjs-fullscreen) .vjs-subs-caps-button,
+.video-js.vjs-layout-x-small:not(.vjs-fullscreen) .vjs-quality-selector,
+.video-js.vjs-layout-x-small:not(.vjs-fullscreen) .vjs-picture-in-picture-control {
+  display: none;
+}
+
+.video-js.vjs-layout-small:not(.vjs-fullscreen) .vjs-audio-button,
+.video-js.vjs-layout-small:not(.vjs-fullscreen) .vjs-captions-button,
+.video-js.vjs-layout-small:not(.vjs-fullscreen) .vjs-playback-rate,
+.video-js.vjs-layout-small:not(.vjs-fullscreen) .vjs-volume-control,
+.video-js.vjs-layout-small:not(.vjs-fullscreen) .vjs-chapters-button,
+.vjs-layout-small:not(.vjs-fullscreen) .vjs-subs-caps-button,
+.vjs-layout-small:not(.vjs-fullscreen) .vjs-subtitles-button {
+  display: none;
+}
+
+.video-js.vjs-layout-small .vjs-progress-control,
+.video-js.vjs-layout-x-small .vjs-progress-control,
+.video-js.vjs-layout-tiny .vjs-progress-control
+  .video-js
+  .vjs-control-bar
+  .vjs-progress-control {
+  position: absolute;
+  height: 1em;
+  margin-top: -0.750em;
+  width: 100%;
+  left: 0;
+  background-color: transparent;
+  flex: auto;
+  display: flex;
+}
+
+.video-js.vjs-layout-small .vjs-time-control,
+.video-js.vjs-layout-x-small .vjs-time-control,
+.video-js.vjs-layout-tiny .vjs-time-control {
+  display: flex;
+  flex: none;
+  color: rgba(255, 255, 255, 1);
+}
+.video-js.vjs-layout-small .vjs-remaining-time,
+.video-js.vjs-layout-x-small .vjs-remaining-time,
+.video-js.vjs-layout-tiny .vjs-remaining-time {
+  display: none;  
+}
+
+.vjs-layout-small .vjs-menu-button-popup .vjs-menu .vjs-menu-content {
+  max-height: 12em;
+}
+.vjs-layout-x-small .vjs-menu-button-popup .vjs-menu .vjs-menu-content {
+  max-height: 10em;
+}
