@@ -10,3 +10,4 @@ Skin for [videojs](http://videojs.com/) versions 7+.<br>
 
 ![demo](https://raw.githubusercontent.com/EmilioSG11/videojs-luxmty-skin-demo/main/Images/IMG_20230116_004128.jpg)
 ![demo](https://raw.githubusercontent.com/EmilioSG11/videojs-luxmty-skin-demo/main/Images/IMG_20230116_004243.jpg)
+![demo](https://raw.githubusercontent.com/EmilioSG11/videojs-luxmty-skin-demo/main/Images/IMG_20230117_144525.jpg)
