@@ -1,5 +1,5 @@
 ## videojs-luxmty-skin-demo
-Skin for [videojs](http://videojs.com/) versions 7+.<br>
+Skin for [videojs](http://videojs.com/) versions 7+ with dark, red and white color combination.<br>
 • CSS Skin <br>
 • Scss file <br>
 • Responsive <br>
