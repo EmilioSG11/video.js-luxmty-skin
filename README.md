@@ -24,7 +24,7 @@ Buy [Full Skin](https://ko-fi.com/s/edb613e555) <br>
 • Tablets and pc
 ![demo](https://raw.githubusercontent.com/EmilioSG11/video.js-luxmty-skin/main/Images/image4.jpg)
 ![demo](https://raw.githubusercontent.com/EmilioSG11/video.js-luxmty-skin/main/Images/image5.jpg)
-![demo](https://raw.githubusercontent.com/EmilioSG11/video.js-luxmty-skin/main/Images/image6.jpg)
+![demo](https://raw.githubusercontent.com/EmilioSG11/video.js-luxmty-skin/main/Images/image6-1.jpg)
 
 • Mobile
 ![demo](https://raw.githubusercontent.com/EmilioSG11/video.js-luxmty-skin/main/Images/image1.jpg)
