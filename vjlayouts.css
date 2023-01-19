@@ -1,4 +1,8 @@
 /*Layout*/
+.video-js.vjs-layout-tiny:not(.vjs-fullscreen).vjs-no-flex .vjs-custom-control-spacer, {
+  width: auto; 
+}
+
 .video-js.vjs-layout-tiny:not(.vjs-fullscreen) .vjs-audio-button,
 .video-js.vjs-layout-tiny:not(.vjs-fullscreen) .vjs-progress-control,
 .video-js.vjs-layout-tiny:not(.vjs-fullscreen) .vjs-playback-rate,
@@ -64,6 +68,12 @@
 .video-js.vjs-layout-x-small .vjs-remaining-time,
 .video-js.vjs-layout-tiny .vjs-remaining-time {
   display: none;  
+}
+
+.video-js.vjs-layout-small .vjs-playback-rate,
+.video-js.vjs-layout-x-small .vjs-playback-rate,
+.video-js.vjs-layout-tiny .vjs-playback-rate {
+  display: block; 
 }
 
 .vjs-layout-small .vjs-menu-button-popup .vjs-menu .vjs-menu-content {
