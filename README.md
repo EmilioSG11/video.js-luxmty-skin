@@ -1,7 +1,7 @@
 ## videojs-luxmty-skin
 Skin for [videojs](http://videojs.com/) versions 7+ with dark, red and white color combination.<br>
 
-Or send me DM [Twitter](https://www.twitter.com/EmilioSGZ_) <br>
+Send me DM [Twitter](https://www.twitter.com/EmilioSGZ_) or email (emiliosalasgzz@gmail.com)<br>
 if you want another color combination <br>
 1. CSS Skin <br>
 2. Scss file <br>
@@ -18,7 +18,7 @@ if you want another color combination <br>
 Codepen [Free Demo](https://codepen.io/emiliosg11/pen/yLqzeeb) <br>
 
 # Full Skin 
- in [Full Skin](https://ko-fi.com/s/edb613e555) <br>
+Buy [Full Skin](https://ko-fi.com/s/edb613e555) <br>
 
 ## Screenshots
 • Tablets and pc
