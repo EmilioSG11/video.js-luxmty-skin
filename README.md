@@ -10,6 +10,15 @@ Skin for [videojs](http://videojs.com/) versions 7+ with dark, red and white col
 [Full Skin](https://ko-fi.com/s/edb613e555) <br>
 
 ## Screenshots
-![demo](https://raw.githubusercontent.com/EmilioSG11/video.js-luxmty-skin/main/Images/IMG_20230116_004128.jpg)
-![demo](https://raw.githubusercontent.com/EmilioSG11/video.js-luxmty-skin/main/Images/IMG_20230116_004243.jpg)
+• Tablets and pc
+![demo](https://raw.githubusercontent.com/EmilioSG11/video.js-luxmty-skin/main/Images/Tablets-pc1.jpg)
+![demo](https://raw.githubusercontent.com/EmilioSG11/video.js-luxmty-skin/main/Images/Tablets-pc2.jpg)
+![demo](https://raw.githubusercontent.com/EmilioSG11/video.js-luxmty-skin/main/Images/Tablets-pc3.jpg)
+
+• Mobile
+![demo](https://raw.githubusercontent.com/EmilioSG11/video.js-luxmty-skin/main/Images/mobile1.jpg)
+![demo](https://raw.githubusercontent.com/EmilioSG11/video.js-luxmty-skin/main/Images/mobile2.jpg)
+![demo](https://raw.githubusercontent.com/EmilioSG11/video.js-luxmty-skin/main/Images/Mobile3.jpg)
+
+•Add custom error image
 ![demo](https://raw.githubusercontent.com/EmilioSG11/video.js-luxmty-skin/main/Images/IMG_20230117_144525.jpg)
