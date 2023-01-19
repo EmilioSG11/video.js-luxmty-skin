@@ -22,14 +22,14 @@ Buy [Full Skin](https://ko-fi.com/s/edb613e555) <br>
 
 ## Screenshots
 • Tablets and pc
-![demo](https://raw.githubusercontent.com/EmilioSG11/video.js-luxmty-skin/main/Images/Tablets-pc1.jpg)
-![demo](https://raw.githubusercontent.com/EmilioSG11/video.js-luxmty-skin/main/Images/Tablets-pc2.jpg)
-![demo](https://raw.githubusercontent.com/EmilioSG11/video.js-luxmty-skin/main/Images/Tablets-pc3.jpg)
+![demo](https://raw.githubusercontent.com/EmilioSG11/video.js-luxmty-skin/main/Images/image4.jpg)
+![demo](https://raw.githubusercontent.com/EmilioSG11/video.js-luxmty-skin/main/Images/image5.jpg)
+![demo](https://raw.githubusercontent.com/EmilioSG11/video.js-luxmty-skin/main/Images/image6.jpg)
 
 • Mobile
-![demo](https://raw.githubusercontent.com/EmilioSG11/video.js-luxmty-skin/main/Images/mobile1.jpg)
-![demo](https://raw.githubusercontent.com/EmilioSG11/video.js-luxmty-skin/main/Images/mobile2.jpg)
-![demo](https://raw.githubusercontent.com/EmilioSG11/video.js-luxmty-skin/main/Images/Mobile3.jpg)
+![demo](https://raw.githubusercontent.com/EmilioSG11/video.js-luxmty-skin/main/Images/image1.jpg)
+![demo](https://raw.githubusercontent.com/EmilioSG11/video.js-luxmty-skin/main/Images/image2.jpg)
+![demo](https://github.com/EmilioSG11/video.js-luxmty-skin/blob/main/Images/image3.jpg)
 
 # Add custom error image
 ![demo](https://raw.githubusercontent.com/EmilioSG11/video.js-luxmty-skin/main/Images/IMG_20230117_144525.jpg)
