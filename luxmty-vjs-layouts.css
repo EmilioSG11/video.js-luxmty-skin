@@ -73,7 +73,7 @@
 .video-js.vjs-layout-small .vjs-playback-rate,
 .video-js.vjs-layout-x-small .vjs-playback-rate,
 .video-js.vjs-layout-tiny .vjs-playback-rate {
-  display: block; 
+  display: inline-flex; 
 }
 
 .vjs-layout-small .vjs-menu-button-popup .vjs-menu .vjs-menu-content {
