@@ -31,5 +31,5 @@ Buy [Full Skin](https://ko-fi.com/s/edb613e555) <br>
 ![demo](https://raw.githubusercontent.com/EmilioSG11/video.js-luxmty-skin/main/Images/image2.jpg)
 ![demo](https://github.com/EmilioSG11/video.js-luxmty-skin/blob/main/Images/image3.jpg)
 
-# Add custom error image
+# Custom error image
 ![demo](https://raw.githubusercontent.com/EmilioSG11/video.js-luxmty-skin/main/Images/IMG_20230117_144525.jpg)
