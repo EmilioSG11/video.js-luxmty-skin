@@ -1,0 +1,301 @@
+.player-container {	 
+  background: rgba(0, 0, 0, 1); 
+  max-width: 900px;
+  margin-right: auto;	 
+  margin-left: auto;	
+  overflow: auto;
+}
+
+/*---Item List---*/
+.vjs-playlist .vjs-playlist-item-list {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  height: 100%;
+}
+.vjs-playlist .vjs-playlist-item {
+  position: relative;
+  cursor: pointer;
+  overflow: hidden;
+}
+.vjs-playlist-vertical .vjs-playlist-item {  
+  margin-bottom: 10px;
+}
+
+.vjs-playlist-horizontal .vjs-playlist-item-list {
+  height: 100%;
+  white-space: nowrap;
+}
+.vjs-playlist-horizontal .vjs-playlist-item {
+  display: inline-block;
+  height: 100%;
+  margin-right: 5px;
+}
+
+/*--------------Playlist----------------*/
+.vjs-playlist {
+  font-size: 14px;
+  max-width: 100%;
+  max-height: 400px;     
+  list-style-type: none;
+  background-color: #1a1a1a;
+  color: #fff;  
+  padding: 16px 0px 0 0px;
+  box-sizing: border-box;
+  height: auto;
+}
+.vjs-playlist-vertical {
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+.vjs-playlist-horizontal {
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+/*--------------Thumbnail----------------*/
+.vjs-playlist-vertical .vjs-playlist-thumbnail {
+  display: block;
+  float: left;
+  background-color: #000;
+  height: 150px;
+  width: 200px;
+  max-height: 100px;
+  max-width: 170px;
+  margin-right: 14px;
+}
+.vjs-playlist-vertical .vjs-playlist-thumbnail-placeholder {
+    height: 100px;
+}
+.vjs-playlist-vertical img {    
+  width: 100%;
+  height: 100%;
+  opacity: 0.45;
+}
+
+.vjs-playlist-horizontal .vjs-playlist-thumbnail {
+  display: block;
+   height: 150px;
+  width: 220px;
+  max-height: 260px;
+  margin-right: 14px;
+  max-width: 250px;
+  background-color: #000;
+}
+.vjs-playlist-horizontal .vjs-playlist-thumbnail-placeholder {
+    height: 100%;
+    width: 180px;
+}
+.vjs-playlist-horizontal img {
+  width: 100%;
+  height: 100%;
+  opacity: 0.45;
+}
+
+/*--------------Now Playing----------------*/
+.vjs-playlist .vjs-playlist-now-playing-text {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding-left: 2px;
+  margin: 0.2rem;
+  font-size: 0.92em;
+  color: #ff0048;
+  font-weight: bolder;
+  z-index: 1;
+}
+
+/*--------------Up-Next----------------*/
+.vjs-playlist .vjs-up-next-text {
+  display: none;
+  padding: 0.1rem 2px;
+  font-size: 0.8em;
+  font-weight: bolder;
+  color: #ff0048;
+  text-align: right;
+  text-transform: uppercase;
+}
+.vjs-playlist .vjs-up-next .vjs-up-next-text {
+  display: block;
+}
+
+/*---------------Name - Title----------------*/
+.vjs-playlist .vjs-playlist-title-container {
+  position: absolute;
+  bottom: 0;
+  box-sizing: border-box;
+  height: auto;
+  width: inherit;
+  max-height: inherit;
+  max-width: inherit;
+  padding: 0 0.2rem;
+  text-shadow: 1px 1px 2px black, -1px 1px 2px black, 1px -1px 2px black,
+    -1px -1px 2px black;
+}
+.vjs-playlist .vjs-playlist-name {
+  display: block;
+  max-height: 2.5em;
+  padding: 0px 2px 4px 2px;
+  font-style: normal;
+  text-overflow: ellipsis;
+  text-align: right;
+  overflow: hidden;
+  white-space: nowrap;
+  line-height: 20px;
+}
+
+/*-----------Description-----------*/
+.vjs-playlist .vjs-playlist-description {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: normal;
+  display: block;
+  font-size: 0.8em;
+  padding: 0 0 0 2px;
+  margin: 0.2em;
+  color: rgba(255, 255, 255, 0.92);
+}
+
+.vjs-playlist-horizontal .vjs-playlist-description {
+  display: block;
+  position: absolute;
+  top: 50%;
+  width: inherit;
+  height: 100%;
+  padding: 0em 2.2em 0em 0.8em;
+  margin: -2.3em 0 2.0em 0;
+  box-sizing: border-box;
+  text-overflow: ellipsis;
+  white-space: normal;
+  overflow: hidden;
+  text-align: center;
+  display: -webkit-box !important;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  color: rgba(255, 255, 255, 0.77);
+  text-shadow: 1px 1px 2px black, -1px 1px 2px black, 1px -1px 2px black,
+    -1px -1px 2px black;
+}
+
+.vjs-playlist-vertical .vjs-playlist-description {
+  height: 60px;
+  line-height: 15px;
+}
+
+.vjs-playlist-horizontal .vjs-playlist-description {
+  height: 45px;
+  line-height: 15px;
+}
+
+/*--------------Duration----------------*/
+.vjs-playlist .vjs-playlist-duration {
+  position: absolute;
+  top: 0.5rem;
+  left: 0.5rem;
+  padding: 2px 5px 2px;
+  margin-left: 2px;
+  background-color: rgba(26, 26, 26, 0.8);
+  font-size: 0.9em;
+}
+
+/*---Selected---*/
+.vjs-playlist .vjs-selected {
+  background-color: rgba(255, 0, 72, 0.51);
+}
+
+.vjs-playlist .vjs-selected img {
+  opacity: 0.2;
+}
+
+.vjs-playlist .vjs-selected .vjs-playlist-duration {
+  display: none;
+}
+
+.vjs-playlist .vjs-selected .vjs-playlist-now-playing-text {
+  display: block;
+}
+
+.vjs-playlist .vjs-selected .vjs-playlist-title-container {
+  text-shadow: none;
+}
+
+.vjs-playlist.vjs-ad-playing.vjs-csspointerevents {
+  pointer-events: none;
+  overflow: auto;
+}
+
+.vjs-playlist.vjs-ad-playing .vjs-playlist-ad-overlay {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.vjs-mouse.vjs-playlist {
+  font-size: 15px;
+}
+
+.vjs-mouse.vjs-playlist .vjs-playlist-description {
+  height: 60px;
+  line-height: 15px;
+}
+
+@media (min-width: 600px) {
+  .vjs-mouse.vjs-playlist {
+    font-size: 17px;
+  }
+
+  .vjs-mouse.vjs-playlist .vjs-playlist-description {
+    height: 60px;
+    line-height: 15px;
+  }
+
+  .vjs-playlist .vjs-playlist-name {
+    line-height: 22px;
+  }
+}
+@media (max-width: 520px) {
+  .vjs-playlist .vjs-selected .vjs-playlist-now-playing-text,
+  .vjs-playlist .vjs-up-next .vjs-up-next-text {
+    display: block;
+  }
+
+  .vjs-mouse.vjs-playlist .vjs-selected .vjs-playlist-now-playing-text,
+  .vjs-mouse.vjs-playlist .vjs-up-next .vjs-up-next-text {
+    display: block;
+  }
+}
+@media (min-width: 521px) {
+  .vjs-playlist img {
+    min-height: 85px;
+  }
+}
+@media (max-width: 750px) {
+  .vjs-playlist .vjs-playlist-duration {
+    display: block;
+  }
+}
+
+/*--------------Scrollbar----------------*/
+.vjs-playlist {
+  scrollbar-width: 7px;
+  scrollbar-color: rgba(255, 0, 72, 0.7) rgba(255, 0, 72, 0.7);
+}
+
+.vjs-playlist::-webkit-scrollbar {
+  width: 7px;
+}
+
+.vjs-playlist::-webkit-scrollbar-track {
+  background-color: black;
+  border-radius: 7px;
+}
+
+.vjs-playlist::-webkit-scrollbar-thumb {
+  border-radius: 7px;
+  background-color: rgba(255, 0, 72, 0.7);
+}
